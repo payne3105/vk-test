@@ -1,11 +1,9 @@
 ## Запуск Проекта
 
-В директории проекта вписать команду, указанную ниже: 
+В директории проекта вписать команду, указанную ниже:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Проект создан на React с использованием JSX. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Дополнительно установлена библиотека компонентов **[ant.design](https://ant.design/)**
